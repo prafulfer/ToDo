@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915054749416",
+    "project_id": "chatapp-notify",
+    "storage_bucket": "chatapp-notify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915054749416:android:cc98d73fa90d43b0808b5d",
+        "android_client_info": {
+          "package_name": "com.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo4nCh3M7XBj48AcXCT9gwWWEBstj47jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
